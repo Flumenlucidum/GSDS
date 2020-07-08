@@ -4,4 +4,5 @@ Professor Jaejin Lee \
 -programming syntax \
 -data structure - tree graph hash table \
 -numpy matplotlibrary scipy \
--pytorch tensorflow
+-pytorch tensorflow \
+-Music Generation project
